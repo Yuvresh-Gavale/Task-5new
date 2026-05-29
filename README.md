@@ -1,7 +1,7 @@
 # Task-5new
 html file: https://github.com/Yuvresh-Gavale/Task-5new/blob/main/index.html
 <br>
-css file: 
+css file: https://github.com/Yuvresh-Gavale/Task-5new/blob/main/style.css
 # Clone the repo
 git clone: https://github.com/Yuvresh-Gavale/Task-5new/edit/main/README.md
 # Go into the project folder
